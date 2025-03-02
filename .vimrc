@@ -1,0 +1,1 @@
+/home/shoaib-quantumcalc/.vimrc
