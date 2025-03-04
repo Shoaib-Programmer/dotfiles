@@ -1,0 +1,14 @@
+[user]
+	email = randomemail@example.com
+	name = Shoaib-Programmer
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
+[alias]
+	ac = commit -am
+	lg = log --graph --oneline --decorate
+[init]
+	defaultBranch = main
